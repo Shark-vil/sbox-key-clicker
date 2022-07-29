@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         S&box key clicker
 // @namespace    https://github.com/Shark-vil
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @match        https://asset.party/~get
