@@ -19,7 +19,7 @@
 					console.error('Check button not found');
 					return;
 			}
-			if (button.text() == 'No Slots Left') {
+			if (!button.text().includes('Seconds Until Next Click')) {
 					const controls = button.closest('controls');
 					if (controls == undefined) {
 							console.error('Controls not found');
